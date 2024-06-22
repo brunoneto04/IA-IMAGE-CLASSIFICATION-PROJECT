@@ -2,3 +2,5 @@ test
 validation
 train
 .old
+*.keras
+*.npy
